@@ -1,5 +1,5 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+I am going to create a multi-user mental health blog especially on Depression and Anxiety. 
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
@@ -7,9 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The users will be specifying for how long they have been suffering, their symptoms,the medications they have took in the past and taking currently, the side effects of those medications, any alternative measures they have taken for their process of healing/managing the illness.
 ### Features
-Include Features here
+* User Signup and login
+*Edit/Delete/Add the fields
+* Search field
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
