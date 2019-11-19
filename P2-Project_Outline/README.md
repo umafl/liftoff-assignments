@@ -1,10 +1,5 @@
 # Project Outline
-I am going to create a multi-user mental health blog especially on Depression and Anxiety. 
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
+I am going to create a multi-user mental health blog especially on Depression and Anxiety.
 
 ### Overview
 The users will be specifying for how long they have been suffering, their symptoms,the medications they have took in the past and taking currently, the side effects of those medications, any alternative measures they have taken for their process of healing/managing the illness.
